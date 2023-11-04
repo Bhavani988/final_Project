@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+ul{
+    float: right;
+    list-style-type: none;
+}
+
+ul li{
+    display: inline-block;
+    margin-top: 30px;
+
+}
+  ul li a{
+    text-decoration: none;
+    color: blueviolet;
+    padding: 5px 20px;
+    color: black;
+    border:3px solid transparent ;
+    transition: 0.6s ease;
+
+}
+
+section{
+    margin-top: 5%;
+
+}
+section h1{
+    font-size: 300%;
+    position:relative;
+    padding-left: 0%;
+    margin-top: 2%;
+    margin-right: 650px;
+
+}
+
+section p{
+    font-size: 20px;
+    padding-left: 0%;
+    margin-right: 600px;
+    margin-top: -3%;
+    
+}
+
+
+
+
+
+
